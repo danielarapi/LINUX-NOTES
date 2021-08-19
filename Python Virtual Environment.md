@@ -19,4 +19,5 @@ python3 -m venv [environment_name]
 
 ```
 source [environment_name]/bin/activate
+deactivate
 ```
