@@ -5,6 +5,8 @@
 ### Update system packages
 ```
 yum update -y
+or
+sudo apt upgrade
 ```
 
 ### Create python3 virtual environment
