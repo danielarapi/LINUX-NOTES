@@ -1,4 +1,5 @@
-This is on CentOS8 with python3 installed
+**Note**
+: This for CentOS8 with python3 installed
 
 
 ### Update system packages
@@ -17,5 +18,3 @@ python3 -m venv [environment_name]
 ```
 source [environment_name]/bin/activate
 ```
-
-
